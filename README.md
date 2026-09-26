@@ -42,7 +42,7 @@ The detection, triage, and incident response work most representative of day-to-
 | | | |
 |---|---|---|
 | ![DETECTIONLABS](https://img.shields.io/badge/DETECTIONLABS-24292e?style=flat-square)![WAZUH](https://img.shields.io/badge/WAZUH-005571?style=flat-square)<br><br>[**Detection Engineering Labs**](https://github.com/0xUthman44/detection-engineering-labs)<br><br>Host and network detection with Wazuh, Sysmon and Suricata: attack simulations, threat hunting and investigation write-ups<br><br>`T1110` `T1046` `T1059.001` `T1547.001` | | |
-
+| ![DETECTIONLABS](https://img.shields.io/badge/DETECTIONLABS-24292e?style=flat-square)![WAZUH](https://img.shields.io/badge/WAZUH-005571?style=flat-square)<br><br>[**Detection Engineering Labs**](https://github.com/0xUthman44/detection-engineering-labs)<br><br>Host and network detection with Wazuh, Sysmon and Suricata: attack simulations, threat hunting and investigation write-ups<br><br>`T1110` `T1046` `T1059.001` `T1547.001` | ![SPLUNKSOCLAB](https://img.shields.io/badge/SPLUNKSOCLAB-24292e?style=flat-square)![SPLUNK](https://img.shields.io/badge/SPLUNK-000000?style=flat-square)<br><br>[**Splunk SOC Lab**](https://github.com/0xUthman44/splunk-soc-lab)<br><br>SIEM-based detection engineering with Splunk: SSH brute-force investigation and SPL detection logic<br><br>`T1110` | |
 <!--
 HOW TO ADD A NEW LAB
 
