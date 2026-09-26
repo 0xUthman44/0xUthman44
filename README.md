@@ -9,6 +9,7 @@
 ![Wazuh](https://img.shields.io/badge/WAZUH-005571?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/SURICATA-EF3B2D?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/SYSMON-3B82F6?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
 ### Endpoint & Network
 
