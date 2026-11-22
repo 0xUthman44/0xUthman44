@@ -10,6 +10,10 @@
 ![Suricata](https://img.shields.io/badge/SURICATA-EF3B2D?style=for-the-badge)
 ![Sysmon](https://img.shields.io/badge/SYSMON-3B82F6?style=for-the-badge)
 ![Splunk](https://img.shields.io/badge/SPLUNK-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/MICROSOFT_SENTINEL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge)
+
+
 
 ### Endpoint & Network
 
